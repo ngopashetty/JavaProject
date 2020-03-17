@@ -7,4 +7,3 @@ node{
   sh 'mv package'
   }
 }
-© 2020 GitHub, Inc.
